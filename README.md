@@ -99,9 +99,9 @@ Open `http://localhost:5173` in your browser.
 
 ---
 
-## 🛡️ Pre-Loaded Test Cases for Quick Evaluation
+## 👥 Project Contributors
 
-You can test VoiceFIR instantly with 1-click verified case samples on the New FIR screen:
-1. 🇮🇳 **Tamil House Theft Case**: Night burglary in Anna Nagar, Chennai (8 Sovereigns gold + cash).
-2. 🇮🇳 **Hindi Assault Case**: Motorcycle snatching and physical assault at Connaught Place Metro Station, New Delhi.
-3. 🇮🇳 **English Cyber Fraud Case**: Online KYC impersonation and unauthorized bank debit in Indiranagar, Bengaluru.
+- 🚀 **Deepan** ([@DEEPAN0988](https://github.com/DEEPAN0988)) — Lead Developer & Project Creator
+- 🛠️ **Bharani Chandran** ([@BharaniChandran](https://github.com/BharaniChandran)) — Contributor
+- 🛠️ **Aravind Kumar** ([@AravindKumar07012007](https://github.com/AravindKumar07012007)) — Contributor
+
