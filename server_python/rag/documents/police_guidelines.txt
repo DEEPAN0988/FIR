@@ -1,0 +1,17 @@
+# STANDARD OPERATING PROCEDURES AND GUIDELINES FOR POLICE FIR RECORDING
+
+1. COGNIZABILITY CHECK:
+   - An FIR can only be registered for cognizable offences. If the complaint pertains to a non-cognizable offence, record in General Diary / CSR (Community Service Register).
+
+2. ANTI-HALLUCINATION & INTEGRITY MANDATE:
+   - Police officers must never allow automated systems to fabricate, speculate, or deduce unproven facts.
+   - Any gap in complainant narrative must be preserved as "Not stated" or "To be investigated".
+   - The original native language statement and English translation must both be retained on record for legal proceedings.
+
+3. SENSITIVE OFFENCE PROTOCOLS:
+   - In offences against women, children, and vulnerable groups, protect informant dignity.
+   - In cyber offences, immediately record digital payment references (UTR/Transaction IDs), wallet names, and phone numbers for rapid freezing requests.
+
+4. DRAFT STATUS & OFFICER VERIFICATION:
+   - All AI-synthesized outputs are legally preliminary "DRAFTS" until physically or digitally signed by the Duty Officer / SHO / Station Officer.
+   - The officer must review every extracted field, edit errors, and verify the complainant's signature/thumb impression before issuing the registered FIR copy.

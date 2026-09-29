@@ -1,0 +1,16 @@
+{
+  "name": "voicefir",
+  "version": "1.0.0",
+  "description": "VoiceFIR - AI-Powered Multilingual Police First Information Report (FIR) Automation Pipeline",
+  "scripts": {
+    "dev:server": "cd server && npm start",
+    "dev:server:py": "cd server_python && python main.py",
+    "dev:client": "cd client && npm run dev",
+    "install:all": "cd server && npm install && cd ../client && npm install && cd ../server_python && python -m pip install -r requirements.txt",
+    "install:py": "cd server_python && python -m pip install -r requirements.txt",
+    "build": "cd client && npm run build"
+  },
+  "keywords": ["voicefir", "police", "fir", "groq", "whisper", "rag", "fastapi", "python", "tamil", "hindi", "react"],
+  "author": "VoiceFIR Engineering Team",
+  "license": "ISC"
+}

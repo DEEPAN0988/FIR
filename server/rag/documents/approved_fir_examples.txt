@@ -1,0 +1,27 @@
+# APPROVED BENCHMARK FIR EXAMPLES
+
+## Example 1: House Burglary / Theft (Tamil Nadu Jurisdiction)
+- Crime Type: Housebreaking by Night and Theft
+- Sections: IPC 457, 380 / BNS 331(4), 305
+- Complainant: K. Subramaniam, Age 48, Residing at No. 14, 2nd Main Road, Anna Nagar, Chennai.
+- Occurrence: 20-Aug-2026 between 22:00 hrs and 05:00 hrs.
+- Accused: Unknown intruder(s), entry gained via rear balcony door latch break.
+- Stolen Property: 8 sovereigns gold jewellery, Cash INR 45,000.
+- Evidence: Broken padlock, rear balcony fingerprint smudges, street junction CCTV camera #4 footage.
+
+## Example 2: Physical Assault & Criminal Intimidation (Delhi Jurisdiction)
+- Crime Type: Voluntarily causing hurt & Criminal Intimidation
+- Sections: IPC 323, 506 / BNS 115(2), 351(2)
+- Complainant: Rajesh Sharma, Age 34, Connaught Place, New Delhi.
+- Occurrence: 19-Aug-2026 at 20:30 hrs outside Metro Station Gate 2.
+- Accused: Two unidentified males on black Pulsar motorcycle without registration plate.
+- Evidence: Medico-Legal Certificate (MLC) from RML Hospital, Metro CCTV footage.
+
+## Example 3: Online Financial Cyber Fraud (Karnataka Jurisdiction)
+- Crime Type: Online Financial Fraud / Cheating by Personation
+- Sections: IPC 420, IT Act Section 66D / BNS 318(4)
+- Complainant: Ananya Rao, Age 29, Indiranagar 100ft Road, Bengaluru.
+- Occurrence: 21-Aug-2026 at 14:15 hrs.
+- Accused: Unknown caller claiming to be bank KYC verification agent (Mobile: 9876543210).
+- Stolen Property: INR 85,000 debited via UPI to recipient account.
+- Evidence: UPI Transaction ID / UTR receipts, WhatsApp chat screenshots, call logs.

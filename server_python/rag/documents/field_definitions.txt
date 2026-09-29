@@ -1,0 +1,26 @@
+# FIELD DEFINITIONS AND EXTRACTION RULES FOR POLICE FIRST INFORMATION REPORT
+
+1. complainant.name: Full legal name of the person giving the complaint. If only a single name is provided, record it verbatim. Do not assume or add titles not explicitly stated.
+2. complainant.fatherOrHusbandName: Father's or Husband's or Guardian's name if explicitly mentioned in the statement. If not mentioned, set to null.
+3. complainant.age: Numeric age or approximate age mentioned by complainant. If omitted, set to null.
+4. complainant.address: Residential or current address mentioned. Include landmarks and city/town if stated.
+5. complainant.phone: Contact phone number if stated. If omitted, set to null.
+6. incident.crimeType: Primary legal classification of the cognizable offence (e.g., "Theft / Burglary", "Physical Assault", "Robbery", "Cyber Fraud / Financial Fraud", "Cheating", "Criminal Intimidation", "Extortion", "Chain Snatching", "Vehicle Theft", "Harassment").
+7. incident.date: Specific date or relative date (e.g., "2026-08-20" or "Yesterday night, 20th August").
+8. incident.time: Precise time or approximate window (e.g., "10:30 PM", "Between 2:00 AM and 4:00 AM").
+9. incident.location: Precise location of the offence including house number, street name, area, landmark, and district.
+10. incident.description: Chronological and objective summary of events as described by the complainant without embellishment.
+11. accused: Array of accused individuals. Each item contains:
+    - name: Identified name or "Unknown person(s)" if identity unknown.
+    - description: Physical description (height, clothing, build, age, vehicle used, identifying marks).
+    - relationship: Relationship to the victim/complainant if stated (e.g., "Stranger", "Neighbor", "Former Employee").
+12. witnesses: Array of persons who witnessed the incident or arrived immediately after. Each item contains name and address/phone if mentioned.
+13. evidence: Physical or digital evidence mentioned (e.g., "CCTV footage available", "Broken padlock recovered", "Bank transaction SMS / UTR reference", "WhatsApp chat screenshots", "Medical certificate / MLC report").
+14. property: Array of stolen, seized, or damaged properties. Each item contains:
+    - item: Specific item name (e.g., "Gold chain 4 sovereigns", "Cash INR 25,000", "iPhone 15 Black").
+    - value: Monetary value if specifically claimed by complainant. If value not stated, set to "Not stated". Never invent a monetary figure.
+    - description: Identifying features, serial numbers, color, weight.
+15. policeStation: Name of the jurisdictional police station handling the complaint.
+16. district: Administrative district or city police commissionerate.
+17. sections: Recommended applicable sections under Indian Penal Code (IPC) / Bharatiya Nyaya Sanhita (BNS) based on the offence type. Note: Must be reviewed and finalized by the investigating police officer.
+18. narrative: Complete formal FIR statement written in standard police administrative voice, preserving victim's exact allegations in chronological sequence.

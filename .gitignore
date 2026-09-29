@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build outputs
+client/dist/
+dist/
+build/
+
+# Environment variables & secrets
+.env
+.env.local
+.env.*.local
+*.pem
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+server_python/temp_uploads/*
+!server_python/temp_uploads/.gitkeep
+
+# Logs & OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log

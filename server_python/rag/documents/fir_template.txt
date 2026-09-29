@@ -1,0 +1,32 @@
+# OFFICIAL FIRST INFORMATION REPORT (FIR) STANDARD STRUCTURE
+(Under Section 154 Cr.P.C. / Section 173 Bharatiya Nagarik Suraksha Sanhita - BNSS)
+
+1. District, Police Station, Year, FIR No., Date & Time of FIR Registration.
+2. Acts & Sections:
+   - Specific statutory penal sections (e.g., IPC / BNS Sections).
+3. Occurrence of Offence:
+   - Day, Date from, Date to, Time from, Time to.
+   - Information received at Police Station (Date, Time).
+   - General Diary Reference Entry No. and Time.
+4. Type of Information: Written / Oral / Spoken Statement / Audio Recording.
+5. Place of Occurrence:
+   - Direction and distance from Police Station.
+   - Beat No. / Village / Street / Locality / Landmark.
+   - City / Taluk / District / State.
+6. Complainant / Informant Details:
+   - Name of Complainant.
+   - Father's / Husband's / Guardian's Name.
+   - Date of Birth / Age.
+   - Nationality.
+   - Occupation.
+   - Address (Present & Permanent) with contact number.
+7. Details of Known / Suspected / Unknown Accused with Full Particulars:
+   - Name(s), Alias(es), Physical description, Known whereabouts, Relationship to victim if any.
+8. Reasons for Delay in reporting by the Complainant / Informant (if any).
+9. Particulars of Properties Stolen / Involved (with description and approximate valuation).
+10. Total Value of Properties Stolen / Involved.
+11. Inquest Report / U.D. Case No. (if any).
+12. First Information Contents (Brief Statement / Narrative of the Complainant in chronological order).
+13. Action Taken / Investigation Officer Assigned:
+    - Name, Rank, Badge No., Police Station.
+    - Verified and Approved by Station House Officer (SHO) / Inspecting Officer.
